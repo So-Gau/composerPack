@@ -1,0 +1,6 @@
+{
+    "name": "wilder/composer-pack",
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
